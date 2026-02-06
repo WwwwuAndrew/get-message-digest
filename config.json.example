@@ -1,0 +1,24 @@
+{
+  "github": {
+    "trending_url": "https://github.com/trending",
+    "language": "",
+    "since": "daily"
+  },
+  "ai": {
+    "provider": "zhipu",
+    "api_key": "",
+    "model": "glm-4.7-flash"
+  },
+  "email": {
+    "smtp_server": "smtp.qq.com",
+    "smtp_port": 465,
+    "sender_email": "",
+    "sender_password": "",
+    "recipient_email": ""
+  },
+  "app": {
+    "log_level": "INFO",
+    "max_repos": 10,
+    "readme_max_length": 2000
+  }
+}
